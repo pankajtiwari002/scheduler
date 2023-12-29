@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963122182720",
+    "project_id": "scheduler-f5f8b",
+    "storage_bucket": "scheduler-f5f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963122182720:android:2083e69f323c0266233da5",
+        "android_client_info": {
+          "package_name": "com.example.scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4UwY_Y_RltKndWHM2qxZMDv49BthBnAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
